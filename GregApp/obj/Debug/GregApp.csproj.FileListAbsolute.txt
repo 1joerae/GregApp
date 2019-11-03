@@ -1,0 +1,6 @@
+C:\Users\jrae\source\repos\GregApp\GregApp\bin\Debug\GregApp.exe
+C:\Users\jrae\source\repos\GregApp\GregApp\bin\Debug\GregApp.pdb
+C:\Users\jrae\source\repos\GregApp\GregApp\obj\Debug\GregApp.csprojAssemblyReference.cache
+C:\Users\jrae\source\repos\GregApp\GregApp\obj\Debug\GregApp.csproj.CoreCompileInputs.cache
+C:\Users\jrae\source\repos\GregApp\GregApp\obj\Debug\GregApp.exe
+C:\Users\jrae\source\repos\GregApp\GregApp\obj\Debug\GregApp.pdb
